@@ -23,6 +23,7 @@ In Object Detection, I observe the instance of semantic objects. These objects a
 
 ## How To Run:
 -> Run Identification.py for face detection through camera.
+  
 -> Run Encode.py to pre-define faces recognized. then run Recognition.py for Recognition through camera.
 
 __PS: If you have a problem with camera setup re-adjust camera port to your in Identification.py or Recognition.py.__
